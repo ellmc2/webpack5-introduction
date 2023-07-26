@@ -1,14 +1,14 @@
 @font-face {
     font-family: 'MyFont';
-    src: url('./JetBrainsMono-Regular.ttf') format('ttf'),
-      url('./JetBrainsMono-Regular.woff2') format('woff2');
+    src: url('./assets/JetBrainsMono-Regular.ttf') format('ttf'),
+      url('./assets/JetBrainsMono-Regular.woff2') format('woff2');
     font-weight: 600;
     font-style: normal;
   }
   
 .hello {
     color: red;
-    background: url('./icon.jpeg');
+    background: url('./assets/icon.jpeg');
     font-family: 'MyFont';
   }
   
